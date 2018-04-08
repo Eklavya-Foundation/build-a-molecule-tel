@@ -1,0 +1,170 @@
+{
+    "build-a-molecule.title": {
+        "value": "‪అణువుల యొక్క నిర్మాణము"
+    },
+    "atom.hydrogen": {
+        "value": "హైడ్రోజన్"
+    },
+    "atom.oxygen": {
+        "value": "ఆక్సిజన్"
+    },
+    "atom.carbon": {
+        "value": "कार्बन"
+    },
+    "atom.nitrogen": {
+        "value": "నత్రజని"
+    },
+    "atom.fluorine": {
+        "value": "ఫ్లోరిన్"
+    },
+    "atom.chlorine": {
+        "value": "క్లోరిన్"
+    },
+    "atom.boron": {
+        "value": "బోరాన్"
+    },
+    "atom.sulphur": {
+        "value": "సల్ఫర్"
+    },
+    "atom.silicon": {
+        "value": "సిలికాన్"
+    },
+    "atom.phosphorus": {
+        "value": "భాస్వరం"
+    },
+    "atom.iodine": {
+        "value": "అయోడిన్"
+    },
+    "atom.bromine": {
+        "value": "బ్రోమిన్"
+    },
+    "molecule.hydrogen_peroxide": {
+        "value": "‪Hydrogen Peroxide‬"
+    },
+    "molecule.formaldehyde": {
+        "value": "ఫార్మాల్డిహైడ్"
+    },
+    "molecule.silane": {
+        "value": "సిలేన్"
+    },
+    "molecule.molecular_fluorine": {
+        "value": "ఫ్లోరిన్"
+    },
+    "molecule.water": {
+        "value": "నీటి"
+    },
+    "molecule.borane": {
+        "value": "బోరెన్"
+    },
+    "molecule.hydrogen_sulfide": {
+        "value": "‪హైడ్రోజన్-సల్ఫైడ్"
+    },
+    "molecule.carbon_dioxide": {
+        "value": "‪కార్బన్ డయాక్సైడ్"
+    },
+    "molecule.chloromethane": {
+        "value": "క్లోరో-మీథేన్"
+    },
+    "molecule.molecular_chlorine": {
+        "value": "క్లోరిన్"
+    },
+    "molecule.molecular_nitrogen": {
+        "value": "నత్రజని"
+    },
+    "molecule.phosphine": {
+        "value": "‪Phosphine‬"
+    },
+    "molecule.sulfur_dioxide": {
+        "value": "‪సల్ఫర్ డయాక్సైడ్"
+    },
+    "molecule.ozone": {
+        "value": "ఓజోన్"
+    },
+    "molecule.fluoromethane": {
+        "value": "ఫ్లోరో-మీథేన్"
+    },
+    "molecule.hydrogen_cyanide": {
+        "value": "‪హైడ్రోజన్ సైనైడ్"
+    },
+    "molecule.molecular_hydrogen": {
+        "value": "హైడ్రోజన్"
+    },
+    "molecule.acetylene": {
+        "value": "‪Acetylene‬"
+    },
+    "molecule.trifluoroborane": {
+        "value": "ట్రై-ఫ్లోరో- బోరెన్"
+    },
+    "molecule.carbon_monoxide": {
+        "value": "‪కార్బన్ మోనాక్సైడ్"
+    },
+    "molecule.molecular_oxygen": {
+        "value": "ఆక్సిజన్"
+    },
+    "molecule.methane": {
+        "value": "మీథేన్"
+    },
+    "molecule.ammonia": {
+        "value": "అమ్మోనియా"
+    },
+    "molecule.ethylene": {
+        "value": "‪Ethylene‬"
+    },
+    "molecule.nitrous_oxide": {
+        "value": "‪నైట్రస్ ఆక్సైడ్"
+    },
+    "molecule.nitric_oxide": {
+        "value": "‪Nitric Oxide‬"
+    },
+    "3d.spaceFilling": {
+        "value": "‪Space Filling‬"
+    },
+    "3d.ballAndStick": {
+        "value": "‪Ball and Stick‬"
+    },
+    "3d.icon": {
+        "value": "‪3D‬"
+    },
+    "kit.label": {
+        "value": "కిట్ #{0}‬"
+    },
+    "kit.resetKit": {
+        "value": "‪కిట్ ను మరల నింపండి"
+    },
+    "collection.single.format": {
+        "value": "‪{0} ({1})‬"
+    },
+    "collection.multiple.goalFormat": {
+        "value": "‪Goal: {0}{1}‬"
+    },
+    "collection.multiple.quantityEmpty": {
+        "value": "‪మీ దగ్గర వున్నది: (ఖాళీ)‬"
+    },
+    "collection.multiple.quantityFormat": {
+        "value": "‪మీ దగ్గర వున్నది: {0}{1}‬"
+    },
+    "collection.reset": {
+        "value": "‪మిశ్రమమును మరల సిద్దము చేయండి"
+    },
+    "collection.yourMoleculeCollection": {
+        "value": "‪మీ అణువులు"
+    },
+    "collection.label": {
+        "value": "మిశ్రమము {0}‬"
+    },
+    "collection.allFilled": {
+        "value": "‪మీరు మీ సేకరణ పూర్తి చేశారు!"
+    },
+    "collection.tryWithDifferentMolecules": {
+        "value": "‪తదుపరి సేకరణ"
+    },
+    "title.makeMolecule": {
+        "value": "‪ఏక"
+    },
+    "title.collectMultiple": {
+        "value": "‪బహుళ"
+    },
+    "title.largerMolecules": {
+        "value": "‪సమగ్ర/ పెద్ద"
+    }
+}
